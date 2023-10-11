@@ -1,5 +1,3 @@
-# LaunchDarkly DevRel Workshop Demo
+# LaunchDarkly workshop repository
 
-Make sure you have Node.js installed: https://nodejs.org/en/download
-
-Basic demo - ensure you've updated the client-key in src/index.js
+Ensure you've updated the client-key in `src/index.js`
